@@ -28,7 +28,7 @@
 //     console.log("First Fifteen Days Of The month");
 // }
 // else {
-//     console.log("Last` Fifteen Days Of The month");
+//     console.log("Last Fifteen Days Of The month");
 // }
 
 //QUESTION 6
